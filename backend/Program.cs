@@ -93,7 +93,7 @@ ConfigureServices(s =>
 
 
         e.MapGet("/bing",
-          async c => await c.Response.WriteAsJsonAsync("{'Name':'Anish','Age':'26','Project':'COMMON_PROJECT_STRUCTURE_API'}"));
+          async c => await c.Response.WriteAsJsonAsync("{'Name':'Kapil','Age':'22','Project':'FOOD_API'}"));
     });
 }).Build().Run();
 var builder = WebApplication.CreateBuilder(args);
