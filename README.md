@@ -1,10 +1,8 @@
 # Food Fiesta 🍽️
 
 **Food Fiesta** is a food delivery app where users can browse restaurants, add food to their cart, mark their favorite dishes, track their orders, and make payments seamlessly. The app also includes features like order history, reviews, ratings, and profile management. It is built using React Native for Android and .NET for the backend.
-![Screenshot_1727398987](https://github.com/user-attachments/assets/c66ce805-6f86-459a-bbf2-6c13b698ddf6)
-![Screenshot_1727398996](https://github.com/user-attachments/assets/8e2db315-bdd2-4f64-81a7-12f812f3c56f)
-![Screenshot_1727399899](https://github.com/user-attachments/assets/9b47c528-a754-4e4c-a44e-5c842fc56cb9)
-![Screenshot_1727399925](https://github.com/user-attachments/assets/9bd26c64-72e5-4276-a9c9-97e00d413333)
+![Screenshot_1727398987](https://github.com/user-attachments/assets/c66ce805-6f86-459a-bbf2-6c13b698ddf6) ![Screenshot_1727398996](https://github.com/user-attachments/assets/8e2db315-bdd2-4f64-81a7-12f812f3c56f)
+![Screenshot_1727399899](https://github.com/user-attachments/assets/9b47c528-a754-4e4c-a44e-5c842fc56cb9)![Screenshot_1727399925](https://github.com/user-attachments/assets/9bd26c64-72e5-4276-a9c9-97e00d413333)
 ![Screenshot_1727400006](https://github.com/user-attachments/assets/3bbe6c36-087c-48aa-b042-7747b747d02e)
 
 ## Features
